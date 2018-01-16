@@ -1,4 +1,4 @@
- var myFavoriteBooks =['nora_roberts_irish_rose','stephenie_meyer_twilight_saga','john_grisham_the_firm',
+ let myFavoriteBooks =['nora_roberts_irish_rose','stephenie_meyer_twilight_saga','john_grisham_the_firm',
  'john_grisham_the_partner','robin_sharma_the_monk_who_sold_his_ferrari','marissa_meyer_heartless','marissa_meyer_cinder',
  'marie_lu_legend','bram_stoker_dracula','sawyer_bennett_lucas',];
 
@@ -6,7 +6,7 @@
  for(i=0; i<myFavoriteBooks.length; i++){
   console.log(myFavoriteBooks[i]);
  }
- var myFavoriteBooks = [
+ let myFavoriteBooks = [
      {
         title: 'Irish Rose',
         language:'English',
